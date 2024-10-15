@@ -462,15 +462,9 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
 INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regular.luc
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
 INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-bold.luc
 INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-bold.luc
-INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc
 INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 INPUT ./thesissummary.aux
 INPUT ./thesissummary.out
