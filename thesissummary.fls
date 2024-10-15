@@ -387,6 +387,9 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/lineno/lineno.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
@@ -400,9 +403,6 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
-INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT ./thesissummary.out
