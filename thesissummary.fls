@@ -442,10 +442,9 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
-INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc
-INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmsans8-regular.luc
 INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
 INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc
+INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc
 INPUT /home/ben/.texlive2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman9-regular.luc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
