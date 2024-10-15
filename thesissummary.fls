@@ -1,6 +1,6 @@
-PWD /home/ben/Work/ThesisAward
+PWD /home/ben/Work/ThesisSummary
 INPUT /usr/local/texlive/2022/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT /home/ben/Work/ThesisAward/thesissummary.tex
+INPUT /home/ben/Work/ThesisSummary/thesissummary.tex
 OUTPUT thesissummary.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/ltluatex.lua
